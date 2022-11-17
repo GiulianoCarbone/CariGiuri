@@ -113,7 +113,7 @@ h6 {
 }
 
 .logo{
-  max-width: 250px;
+  max-width: 200px;
 }
 
 #header .logo a {
@@ -599,7 +599,7 @@ section {
 }
 
 .featured-services .icon {
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 
 .featured-services .icon i {
