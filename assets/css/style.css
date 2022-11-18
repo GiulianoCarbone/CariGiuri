@@ -479,6 +479,9 @@ h6 {
   opacity: 1;
   background: #81aca0;
 }
+.btn{
+background-color: #81aca0
+};
 
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
